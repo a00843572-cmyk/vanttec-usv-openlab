@@ -1,0 +1,5 @@
+build/
+.git/
+.vscode/
+assets/result.jpg
+models/midas_small_256.onnx

@@ -384,14 +384,3 @@ Durante las pruebas realizadas con una imagen que contiene una botella, el model
 
 El proyecto también puede compilarse y ejecutarse correctamente dentro de Docker.
 
----
-
-## Conclusión
-
-Este proyecto implementa una solución básica de percepción utilizando visión por computadora.
-
-YOLOv5 permite identificar objetos presentes en la imagen, mientras que las coordenadas centrales `(u, v)` proporcionan información sobre su ubicación dentro del frame.
-
-La estimación de profundidad implementada es relativa y utiliza el tamaño aparente del objeto como aproximación de cercanía.
-
-Aunque este método no proporciona una distancia métrica, permite asociar una detección con información espacial básica y funciona como una primera aproximación para futuras aplicaciones de navegación autónoma.

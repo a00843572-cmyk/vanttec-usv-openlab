@@ -1,0 +1,3 @@
+/workspaces/vanttec-usv-openlab/build/CMakeFiles/usv_vision.dir
+/workspaces/vanttec-usv-openlab/build/CMakeFiles/edit_cache.dir
+/workspaces/vanttec-usv-openlab/build/CMakeFiles/rebuild_cache.dir
